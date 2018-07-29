@@ -7,7 +7,7 @@ In recent years, white supremicists have come out in the open with their beliefs
 * Visualize confederate symbols based on state.
 * Visualize confederate symbols based on type of symbol.
 * Visualize the location of these symbols, on the US map, using latitude and longitude.
+* Visualized the number of confederate symbols per 100,000 people, for each state
 
 ## Future Goals
 * Compute confederate symbols per square mile
-* Compute confederate symbols per 100k people.
